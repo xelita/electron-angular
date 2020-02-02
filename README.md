@@ -9,5 +9,5 @@ npm i
 
 Launching the demo app
 ```
-npm run lectron
+npm run electron
 ```
